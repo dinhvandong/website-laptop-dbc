@@ -2,6 +2,7 @@
   "name": "reliance_digital",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://codingschool.academy/",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.13",
     "@chakra-ui/react": "^2.4.3",
